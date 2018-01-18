@@ -28,6 +28,11 @@ __bold__
 # Image
 ![dog](https://pbs.twimg.com/profile_images/888907252702347265/g2JwwLDR_400x400.jpg)
 
+![dog2](https://pbs.twimg.com/profile_images/828073361397932032/eKTigt-2.jpg)
+
+![dog3](http://i0.kym-cdn.com/photos/images/newsfeed/000/738/642/087.jpg)
+
+![dog4](http://i0.kym-cdn.com/photos/images/newsfeed/001/023/434/35a.jpg)
 # Code and Syntax Highlighting
 `code` `back-ticks`
 ```javascript
