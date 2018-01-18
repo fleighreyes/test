@@ -15,7 +15,7 @@ __bold__
 **_combined_**
 ~~scratch~~
 
-#Lists
+# Lists
 - item
 * item
 + item
@@ -23,4 +23,46 @@ __bold__
 
 # Links
 
-[Markdown Cheat Sheet] 
+[Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+# Image
+![dog](https://pbs.twimg.com/profile_images/888907252702347265/g2JwwLDR_400x400.jpg)
+
+# Code and Syntax Highlighting
+`code` `back-ticks`
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+```python
+s = "Python syntax highlighting"
+print ("2")
+```
+# Tables
+
+| 1        | 2            | 3     |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+# Blockquotes
+
+>quote
+>quote
+
+# Inline HTML
+
+<dl>
+  <dt>dt</dt>
+  <dd>dd</dd>
+</dl>
+
+# Horizontal Rule
+
+hyphens
+---
+asterisks
+***
+underline
+___
